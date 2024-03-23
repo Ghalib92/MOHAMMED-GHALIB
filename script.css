@@ -13,8 +13,19 @@ body {
     background-color: transparent !important;
     color:black;
     background-color: black;
+
     
 }
+.social-icon  {
+    border-radius: 50%;
+    text-align:right;
+    position: absolute;
+    bottom:0 ;
+    left: 40%;
+    transform: translateX(-50%);
+    margin-bottom: 4rem;
+
+  }
 .unique-page-class{
     background-image: url(office.jpg);
     background-repeat: no-repeat;
